@@ -7,7 +7,7 @@ Still being fleshed out/filled-in.<br></br>
 What is DOCTYPE?<br></br>
 What is the difference between CSS background and background-color?<br></br>
 What is quirks mode?<br></br>
-What is the difference between <span> and <div>?<br></br>
+What is the difference between span and div?<br></br>
 What is the data-* attribute?<br></br>
 What are optional HTML closing tags? Why are they useful?<br></br>
 What is ARIA?<br></br>

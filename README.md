@@ -1,7 +1,12 @@
 # Technical-Interview-Questions
 
-2/21/2018: <br>
-Still being fleshed out/filled-in.<br>
+# Project Description
+This is a repo of practice interview questions that our class is assigned to work on over lunch.<br>
+It will continue being filled in until, and likely beyond, the course's end date.<br>
+Answers have been deliberately excluded, to give this repo more utility as a source for whiteboarding exercises.<br>
+
+# Notes
+<br>
 
 ## Questions<br>
 What is DOCTYPE?<br>

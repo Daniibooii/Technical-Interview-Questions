@@ -30,3 +30,4 @@ Pseudo code a function that will
 a) Read a given set of numbers. 
 b) Calculate and return the average of the numbers<br>
 Write a function that tests whether or not a string is a palindrome; see if you can do it in NODE.<br>
+Write a function that outputs an array of the nth number of the Fibonacci sequence<br>

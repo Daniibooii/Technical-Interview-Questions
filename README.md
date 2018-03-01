@@ -31,8 +31,9 @@ Write pseudo code that performs the following:
 Ask a user to enter a number. If the number is between 0 and 10, write the word RED. If the number is between 10 and 20, write the word GREEN. if the number is between 20 and 30, write the word BLUE. If it is any other number, write that it is not a correct color option.<br>
 Write pseudo code that performs the following: Ask a user to enter a number. If the number is between 0 and 10, write the word RED. If the number is between 10 and 20, write the word GREEN. if the number is between 20 and 30, write the word BLUE. If it is any other number, write that it is not a correct color option.<br>
 Write pseudo code that reads in three numbers and writes them all in sorted order.<br>
-Pseudo code a function that will
+Pseudo code a function that will:
 a) Read a given set of numbers. 
 b) Calculate and return the average of the numbers<br>
 Write a function that tests whether or not a string is a palindrome; see if you can do it in NODE.<br>
-Write a function that outputs an array of the nth number of the Fibonacci sequence<br>
+Write a function that outputs an array of the nth number of the Fibonacci sequence.<br>
+Write a function that swaps two numbers without using a temporary variable.<br>

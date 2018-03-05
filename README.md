@@ -1,8 +1,8 @@
 # Technical-Interview-Questions
 
 # Project Description
-This is a repo of practice interview questions that our class is assigned to work on over lunch.<br>
-It will continue being filled in until, and likely beyond, the course's end date.<br>
+This is a repo of practice interview questions that I've encountered and saved here.<br>
+It will continue being filled in for the near future.<br>
 Answers have been deliberately excluded, to give this repo more utility as a source for whiteboarding exercises.<br>
 
 # Notes

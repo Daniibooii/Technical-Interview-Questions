@@ -39,3 +39,6 @@ Write a function that outputs an array of the nth number of the Fibonacci sequen
 Write a function that swaps two numbers without using a temporary variable.<br>
 Given a string, return whether all contained vowels are in alphabetical order.<br>
 What are ternary operators?<br>
+Write a function that counts the total number of zeros from 1 to n
+Example: countZero(2017) returns 223<br>
+

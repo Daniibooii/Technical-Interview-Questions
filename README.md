@@ -20,6 +20,8 @@ When should you use section, div or article?<br>
 Related to above: what is semantic HTML?<br>
 What are the differences between svg and canvas?<br>
 What are ::before and ::after?<br>
+What are ternary operators?<br>
+What is superuser?<br>
 
 ## Algos<br></br>
 Write the recipe for making a peanut butter & jelly sandwich in discrete steps.<br>
@@ -38,7 +40,5 @@ Write a function that tests whether or not a string is a palindrome; see if you 
 Write a function that outputs an array of the nth number of the Fibonacci sequence.<br>
 Write a function that swaps two numbers without using a temporary variable.<br>
 Given a string, return whether all contained vowels are in alphabetical order.<br>
-What are ternary operators?<br>
 Write a function that counts the total number of zeros from 1 to n
 Example: countZero(2017) returns 223<br>
-

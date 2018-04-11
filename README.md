@@ -46,5 +46,7 @@ Write a function that tests whether or not a string is a palindrome; see if you 
 Write a function that outputs an array of the nth number of the Fibonacci sequence.<br>
 Write a function that swaps two numbers without using a temporary variable.<br>
 Given a string, return whether all contained vowels are in alphabetical order.<br>
-Write a function that counts the total number of zeros from 1 to n
-Example: countZero(2017) returns 223<br>
+Write a function that counts the total number of zeros from 1 to n<br>
+--Example: countZero(2017) returns 223<br>
+Write a function that sorts an array of numbers in order.<br>
+

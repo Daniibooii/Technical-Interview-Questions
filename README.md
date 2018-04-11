@@ -22,6 +22,9 @@ What are the differences between svg and canvas?<br>
 What are ::before and ::after?<br>
 What are ternary operators?<br>
 What is superuser?<br>
+What is an algorithm?
+	What are some examples of common computer science algorithms?
+	How do you determine if one algorithm is better than another?<br>
 
 ## Algos<br></br>
 Write the recipe for making a peanut butter & jelly sandwich in discrete steps.<br>
